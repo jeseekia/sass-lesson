@@ -1,0 +1,11 @@
+@import "fontAndColor";
+
+section {
+  h2 {
+    font: 24px $font-stack;
+  }
+}
+
+p {
+  background-color: $primary-color;
+}
